@@ -33,6 +33,14 @@
 <li><a href="https://cdn.74b.cc/book/%5B%5B%E9%AB%98%E6%80%A7%E8%83%BDMySQL%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%5D.Baron.Scbwartz%E7%AD%89.%E6%89%AB%E6%8F%8F%E7%89%88%5B%E7%94%B5%E5%AD%90%E4%B9%A6.pdf" title="高性能MySQL第3版">高性能MySQL第3版</a></li>
 </details>
 
+<details> <summary>投资</summary>
+<li><a href="https://cdn.74b.cc/book/证券分析(第6版)上.pdf" title="证券分析(第6版)上">证券分析(第6版)上</a></li>
+<li><a href="https://cdn.74b.cc/book/证券分析(第6版)下.pdf" title="证券分析(第6版)下">证券分析(第6版)下</a></li>
+<li><a href="https://cdn.74b.cc/book/聪明的投资者  第四版.pdf" title="聪明的投资者  第四版">聪明的投资者  第四版</a></li>
+
+
+</details>
+
 
 
 
