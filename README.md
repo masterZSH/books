@@ -29,6 +29,12 @@
 <li><a href="https://cdn.74b.cc/book/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf" title="Java开发手册（嵩山版）">Java开发手册（嵩山版）</a></li>
 </details>
 
+
+
+<details> <summary>Web3</summary>
+<li><a href="https://docs.web3js.org/" title="Web3js">Web3js</a></li>
+</details>
+
 <details> <summary>数据库</summary>
 <li><a href="https://cdn.74b.cc/book/%5B%5B%E9%AB%98%E6%80%A7%E8%83%BDMySQL%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%5D.Baron.Scbwartz%E7%AD%89.%E6%89%AB%E6%8F%8F%E7%89%88%5B%E7%94%B5%E5%AD%90%E4%B9%A6.pdf" title="高性能MySQL第3版">高性能MySQL第3版</a></li>
 </details>
