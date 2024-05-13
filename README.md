@@ -45,6 +45,7 @@
 <li><a href="https://cdn.74b.cc/book/聪明的投资者  第四版.pdf" title="聪明的投资者  第四版">聪明的投资者  第四版</a></li>
 <li><a href="https://cdn.74b.cc/book/富爸爸穷爸爸.pdf" title="富爸爸穷爸爸">富爸爸穷爸爸</a></li>
 <li><a href="https://cdn.74b.cc/book/一本书读懂财报.pdf" title="一本书读懂财报">一本书读懂财报</a></li>
+<li><a href="https://cdn.74b.cc/book/穷查理宝典.pdf" title="穷查理宝典">穷查理宝典</a></li>
 </details>
 
 
